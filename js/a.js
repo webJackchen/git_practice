@@ -1,5 +1,5 @@
 var validate = {
-	name: 'a.js',
+	name: 'a.js-hhh',
 	id:'2222',
 	type:'master-dev'
 }
