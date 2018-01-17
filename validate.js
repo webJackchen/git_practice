@@ -1,4 +1,5 @@
 var validate = {
 	name: 'hello',
-	id:'2222'
+	id:'2222',
+	type:'dev'
 }
